@@ -1,0 +1,51 @@
+<?php>
+body {
+   background-image: url("C:\Users\albinpsimon\Desktop\med.gif");
+   
+}
+<style type="text/css">
+*{
+ box-sizing: border-box;}
+ pre {
+    display: block;
+    font-family: times new roman;
+    white-space: pre;
+    margin: 1em 0;
+} 
+form {
+    border: 3px solid #f1f1f1;
+    
+}
+.top{
+	border-top:thin solid;
+	border-color:black;
+}
+.bottom{
+	border-bottom:thin solid;
+	border-color:black;
+}
+.left{
+	border-left:thin solid;
+	border-color:black;
+}
+.right{
+	border-right:thin solid;
+	border-color:black;
+}
+
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 70%;
+}
+
+/* Add a hover effect for buttons */
+button:hover {
+    opacity: 0.5;
+</style>
+?>
